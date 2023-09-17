@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTweaker/static/css/main.abd64e84.css",
+    "main.js": "/TextTweaker/static/js/main.4f947496.js",
+    "static/js/787.719ec76d.chunk.js": "/TextTweaker/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextTweaker/index.html",
+    "main.abd64e84.css.map": "/TextTweaker/static/css/main.abd64e84.css.map",
+    "main.4f947496.js.map": "/TextTweaker/static/js/main.4f947496.js.map",
+    "787.719ec76d.chunk.js.map": "/TextTweaker/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.4f947496.js"
+  ]
+}
